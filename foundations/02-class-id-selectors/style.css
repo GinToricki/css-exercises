@@ -1,0 +1,19 @@
+.para {
+    background-color: rgb(221, 165, 165);
+    font-family: Verdana, DejaVu sans, sans-serif
+}
+
+#first {
+    color: hsl(251, 100%, 45%);
+    font-size: 36px;
+}
+
+.cool {
+    font-size:24px;
+}
+
+#second {
+    background-color: rgb(119, 214, 100);
+    font-weight: bold;
+    font-size: 24px;
+}
